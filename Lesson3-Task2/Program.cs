@@ -10,6 +10,7 @@ namespace Lesson3_Task2
     {
         static void Main(string[] args)
         {
+            int a = 2
             Console.WriteLine("Hello World!");
         }
     }
