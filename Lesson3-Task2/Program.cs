@@ -12,6 +12,7 @@ namespace Lesson3_Task2
         {
             int a = 2;
             int b = 3;
+            Console.WriteLine($"{a} * {b} = {a * b}");
             Console.WriteLine("Hello World!");
         }
     }
